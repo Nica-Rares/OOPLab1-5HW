@@ -1,0 +1,4 @@
+﻿  Lab2.1HW.cpp
+C:\Users\Rares\source\repos\Lab2.1HW\Lab2.1HW\Lab2.1HW.cpp(29,36): warning C4101: 'e': unreferenced local variable
+C:\Users\Rares\source\repos\Lab2.1HW\Lab2.1HW\Lab2.1HW.cpp(32,32): warning C4101: 'e': unreferenced local variable
+  Lab2.1HW.vcxproj -> C:\Users\Rares\source\repos\Lab2.1HW\x64\Debug\Lab2.1HW.exe
